@@ -1,59 +1,32 @@
-Automation & API Testing Project
-Overview
+# Automation & API Testing Project
 
-This project demonstrates a full QA workflow: starting from manual test cases, moving to automation testing using Java and Selenium, and performing API testing with Postman. The goal was to validate the system, ensure quality, and gain hands-on experience in real-world testing scenarios.
+## Overview
+This project demonstrates a complete QA workflow, starting from **manual test cases**, progressing to **automation testing** using **Java and Selenium**, and including **API testing with Postman**. The goal was to ensure system quality while gaining hands-on experience with real-world testing challenges.
 
-Features
+## Features
+- Manual test case creation and execution
+- Automation of test cases using Java, Selenium, and Eclipse
+- API testing using Postman
+- Test reporting and documentation
 
-Manual test case creation and execution
+## How to Run
 
-Automation of test cases using Java, Selenium, and Eclipse
+### Automation Testing
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+- Open the project in Eclipse.
+- Ensure all required dependencies are installed (e.g., Selenium libraries).
+- Run the automation scripts located in the src folder.
 
-API testing using Postman
+## Team
 
-Test reporting and documentation
+- Ahmad Hatem 
 
-Exposure to real work-life challenges, teamwork, and presentation skills
+- Salma
 
-Learning Outcomes
+- Dai
 
-Problem-solving and debugging
+- Abram
 
-Leadership and team coordination
-
-Writing and managing test cases
-
-Coding and implementing automated workflows
-
-Presenting results effectively
-
-Getting Started
-
-Clone the repository:
-
-git clone https://github.com/your-username/your-repo.git
-
-
-Open the project in Eclipse.
-
-Run the automation scripts located in the src folder.
-
-Use Postman collections in the API folder to test APIs.
-
-Team
-
-Salma
-
-Dai
-
-Abram
-
-Alaa
-
-Ahmad Hatem (Project contributor)
-
-Acknowledgements
-
-DEPI for the opportunity
-
-Instructor: Abdulrahman Osama for guidance and support
+- Alaa
