@@ -21,12 +21,12 @@ This project demonstrates a complete QA workflow, starting from **manual test ca
 
 ## Team
 
-- Ahmad Hatem 
+- Ahmad hatem mostafa
 
-- Salma
+- salma yasser ali 
 
-- Dai
+- dai hesham mohamed 
 
-- Abram
+- ebram agaybi thabet 
 
-- Alaa
+- Alaa Atef Ali 
