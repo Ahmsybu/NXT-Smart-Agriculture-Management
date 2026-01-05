@@ -23,10 +23,10 @@ This project demonstrates a complete QA workflow, starting from **manual test ca
 
 - Ahmad hatem mostafa
 
-- salma yasser ali 
+- Salma yasser ali 
 
-- dai hesham mohamed 
+- Dai hesham mohamed 
 
-- ebram agaybi thabet 
+- Ebram agaybi thabet 
 
 - Alaa Atef Ali 
