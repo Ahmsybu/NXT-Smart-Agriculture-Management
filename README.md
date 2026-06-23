@@ -12,12 +12,20 @@ This project demonstrates a complete QA workflow, starting from **manual test ca
 ## How to Run
 
 ### Automation Testing
+### Automation Testing
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-- Open the project in Eclipse.
-- Ensure all required dependencies are installed (e.g., Selenium libraries).
-- Run the automation scripts located in the src folder.
+   git clone https://github.com/Ahmsybu/NXT-Smart-Agriculture-Management.git
+   ```
+
+2. Open the project in Eclipse.
+
+3. Run the website locally and ensure it is accessible.
+
+4. Ensure all required dependencies are installed (e.g., Selenium libraries).
+
+5. Run the automation scripts located in the `src` folder.
 
 ## Team
 
